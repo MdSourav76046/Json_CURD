@@ -1,0 +1,30 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "available": 1,
+        "pages": 267,
+        "isbn": 9780547249643
+    },
+    {
+        "title": "qwewqeqwe",
+        "author": "wqewqe",
+        "available": "1",
+        "pages": "1",
+        "isbn": "1"
+    },
+    {
+        "title": "Hue hue hue",
+        "author": "Sourav",
+        "available": "1",
+        "pages": "123",
+        "isbn": "123456"
+    },
+    {
+        "title": "sadsd",
+        "author": "sadsd12",
+        "available": "222",
+        "pages": "2",
+        "isbn": "2"
+    }
+]
